@@ -1,0 +1,7 @@
+name: 'CKEditor SimpleButton'
+type: module
+description: 'This module provides Button plugin to CKEditor'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - ckeditor
